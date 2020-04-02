@@ -1,6 +1,6 @@
 # Nested String Challenge
 
-This code was tested using MAC OSX - Paycharm CE idea.
+This code was tested using MAC OSX - Pycharm CE idea.
 
 Test Result:
 Unittest
